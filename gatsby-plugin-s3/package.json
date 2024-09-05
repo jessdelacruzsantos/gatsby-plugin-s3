@@ -1,6 +1,6 @@
 {
     "name": "gatsby-plugin-s3",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "description": "Enables you to deploy your gatsby site to a S3 bucket.",
     "main": "index.js",
     "bin": {
@@ -54,7 +54,7 @@
         "minimatch": "^3.0.4",
         "ora": "^3.0.0",
         "pretty-error": "^2.1.1",
-        "proxy-agent": "^4.0.0",
+        "proxy-agent": "^6.4.0",
         "stream-to-promise": "^2.2.0",
         "yargs": "^15.4.0"
     },
